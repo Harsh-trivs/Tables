@@ -13,6 +13,23 @@
   }
 }
 
+.row{
+  border: 1px  solid white;
+}
+
+.program-outcomes,
+.program-specific-outcome {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.cusTable{
+  Width: 1800px;
+  Overflow-x : hidden;
+  
+}
+
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
